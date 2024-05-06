@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **manojdmaiya@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Np89ssybefWmy-HWNtzabNkOi9XvK0df/view?usp=sharing](https://drive.google.com/file/d/1Np89ssybefWmy-HWNtzabNkOi9XvK0df/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1p_8W_QKvZFVrvJcCzBRQ2M98BhrTpfRW/view?usp=sharing)
 
 - ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs!**
 
