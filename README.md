@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojdmaiya&label=Profile%20views&color=0e75b6&style=flat" alt="manojdmaiya" /> </p>
 
 
-- 🔭 I’m currently working on **Full stack development**
+- 🔭 I’m currently working on **Full stack web development**
 
 - 🌱 I’m currently learning **Microservices , System Design**
 
