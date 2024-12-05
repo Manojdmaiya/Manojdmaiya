@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Full stack web development**
 
-- 🌱 I’m currently learning **Microservices , System Design**
+- 🌱 I’m currently learning **Microservices , System Design , software development , **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Manojdmaiya](https://github.com/Manojdmaiya)
 
