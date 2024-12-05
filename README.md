@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojdmaiya&label=Profile%20views&color=0e75b6&style=flat" alt="manojdmaiya" /> </p>
 
 
-- 🔭 I’m currently working on **Backend Web development**
+- 🔭 I’m currently working on **Full stack development**
 
-- 🌱 I’m currently learning **nodejs,mongodb,webrtc**
+- 🌱 I’m currently learning **Microservices , System Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Manojdmaiya](https://github.com/Manojdmaiya)
 
-- 💬 Ask me about **Programming,JAVA,HTML,CSS,JAVASCRIPT**
+- 💬 Ask me about **Programming,JAVA,ANGULAR,SPRINGBOOT,GENAI**
 
 - 📫 How to reach me **manojdmaiya@gmail.com**
 
